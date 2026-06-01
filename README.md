@@ -1,1 +1,1 @@
-# Pluto-Academy-EDA-Project
+This is my first project for the Pluto Academy AI & ML Internship. It is an Exploratory Data Analysis (EDA) of the Netflix dataset, featuring data cleaning, pandas manipulation, and data visualization using Matplotlib and Seaborn.
